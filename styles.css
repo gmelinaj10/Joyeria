@@ -1,0 +1,21 @@
+/* Personaliza el estilo de tu sitio aquí */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos para el carrusel */
+.carousel-inner img {
+  width: 100%;
+  height: 400px; /* Ajusta la altura deseada */
+  object-fit: cover;
+}
+
+/* Estilos para el álbum de imágenes */
+.album-image {
+  width: 100%;
+  height: auto;
+}
+
+/* Otros estilos */
+/* Agrega aquí los estilos personalizados para el menú, encabezado, etc. */
